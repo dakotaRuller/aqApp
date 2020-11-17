@@ -1,0 +1,892 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="606d2323-5582-46c4-b70a-a2c9f779a312" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/__tests__/src/components/global/navigation/Navbar.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/__tests__/src/components/global/navigation/Navbar.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__tests__/src/components/technologies/Technologies.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/__tests__/src/components/technologies/Technologies.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/technologies.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/technologies.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/global/navigation/Navbar.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/global/navigation/Navbar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/technologies/Technologies.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/technologies/Technologies.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scripts/constants.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/scripts/constants.js" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pages/testing.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="24">
+              <caret line="1" column="19" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/__tests__/pages/index.test.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="267">
+              <caret line="16" column="5" selection-end-line="26" />
+              <folding>
+                <element signature="e#15#41#0" expanded="true" />
+                <element signature="e#136#164#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/__tests__/pages/technologies.test.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="251">
+              <caret line="19" column="9" selection-end-line="26" />
+              <folding>
+                <element signature="e#15#41#0" expanded="true" />
+                <element signature="e#137#165#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/__tests__/pages/testing.test.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="335">
+              <caret line="23" column="45" selection-start-line="23" selection-start-column="45" selection-end-line="23" selection-end-column="45" />
+              <folding>
+                <element signature="e#15#41#0" expanded="true" />
+                <element signature="e#152#180#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pages/technologies.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="24">
+              <caret line="1" column="19" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jest.config.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="64">
+              <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jsconfig.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="192">
+              <caret line="8" column="34" lean-forward="true" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pages/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-15">
+              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="6" selection-end-column="51" />
+              <folding>
+                <element signature="e#15#48#0" expanded="true" />
+                <element signature="e#93#119#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/__tests__/src/components/global/navigation/Navbar.test.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="333">
+              <caret line="36" column="65" selection-start-line="36" selection-start-column="65" selection-end-line="36" selection-end-column="65" />
+              <folding>
+                <element signature="e#15#41#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/landing/Landing.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="148">
+              <caret line="39" column="42" selection-start-line="39" selection-start-column="42" selection-end-line="39" selection-end-column="42" />
+              <folding>
+                <element signature="e#15#41#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>font-fami</find>
+      <find>color: red</find>
+      <find>getInitialProps</find>
+      <find>ea</find>
+      <find>ease-in</find>
+      <find>styled-components</find>
+      <find>updateClient</find>
+      <find>welcome</find>
+      <find>clientIsLoaded</find>
+      <find>change client</find>
+      <find>ssr react</find>
+      <find>/styled-components</find>
+      <find>Apploading</find>
+      <find>keyframes`</find>
+      <find>position</find>
+      <find>z-index</find>
+      <find>console.log</find>
+      <find>navigation-links</find>
+      <find>className=&quot;styled-link&quot;</find>
+      <find>flex-direction</find>
+      <find>routerConte</find>
+      <find>useContext</find>
+      <find>useEffect</find>
+      <find>useState</find>
+      <find>console</find>
+      <find>ThemeSwitcher</find>
+      <find>technologies</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/styled-components/navigation/Navbar.js" />
+        <option value="$PROJECT_DIR$/src/components/shared/Navbab.js" />
+        <option value="$PROJECT_DIR$/src/styled-components/index.js" />
+        <option value="$PROJECT_DIR$/src/styled-components/global/navigation/ThemeSwitcher.js" />
+        <option value="$PROJECT_DIR$/.prettierignore" />
+        <option value="$PROJECT_DIR$/.prettierrc.json" />
+        <option value="$PROJECT_DIR$/src/styled-components/global/animations/AppLoadingAnimation.js" />
+        <option value="$PROJECT_DIR$/src/components/animations/AppLoadingAnimation.js" />
+        <option value="$PROJECT_DIR$/src/contexts/ClientIsLoadedContext.js" />
+        <option value="$PROJECT_DIR$/src/styled-components/global/navigation/StyledThemeSwitcher.js" />
+        <option value="$PROJECT_DIR$/src/contexts/clientIsLoadedContext.js" />
+        <option value="$PROJECT_DIR$/src/styled-components/global/animations/StyledAppLoadingAnimation.js" />
+        <option value="$PROJECT_DIR$/pages/_document.js" />
+        <option value="$PROJECT_DIR$/pages/page-two.js" />
+        <option value="$PROJECT_DIR$/src/contexts/clientLoadedContext.js" />
+        <option value="$PROJECT_DIR$/pages/_app.js" />
+        <option value="$PROJECT_DIR$/src/components/home/Landing.js" />
+        <option value="$PROJECT_DIR$/src/styled-components/landing/StyledLanding.js" />
+        <option value="$PROJECT_DIR$/src/styled-components/global/GlobalStyles.js" />
+        <option value="$PROJECT_DIR$/src/scripts/contants.js" />
+        <option value="$PROJECT_DIR$/src/components/landing/Landing.js" />
+        <option value="$PROJECT_DIR$/src/styled-components/variables.js" />
+        <option value="$PROJECT_DIR$/setupTests.js" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/src/styled-components/global/navigation/StyledNavbar.js" />
+        <option value="$PROJECT_DIR$/jsconfig.json" />
+        <option value="$PROJECT_DIR$/jest.config.js" />
+        <option value="$PROJECT_DIR$/__tests__/src/components/animations/AppLoadingAnimation.test.js" />
+        <option value="$PROJECT_DIR$/src/contexts/themeContext.js" />
+        <option value="$PROJECT_DIR$/src/components/global/navigation/ThemeSwitcher.js" />
+        <option value="$PROJECT_DIR$/__tests__/src/components/global/navigation/ThemeSwitcher.test.js" />
+        <option value="$PROJECT_DIR$/__tests__/src/contexts/Landing.test.js" />
+        <option value="$PROJECT_DIR$/src/styled-components/technologies/StyledTechnologies.js" />
+        <option value="$PROJECT_DIR$/__mocks__/technologies/technologies.js" />
+        <option value="$PROJECT_DIR$/__mocks__/theme/theme.js" />
+        <option value="$PROJECT_DIR$/__tests__/src/App.test.js" />
+        <option value="$PROJECT_DIR$/src/App.js" />
+        <option value="$PROJECT_DIR$/src/components/technologies/Technologies.js" />
+        <option value="$PROJECT_DIR$/src/scripts/constants.js" />
+        <option value="$PROJECT_DIR$/src/styled-components/testing/StyledTesting.js" />
+        <option value="$PROJECT_DIR$/src/components/global/navigation/Navbar.js" />
+        <option value="$PROJECT_DIR$/src/components/testing/Testing.js" />
+        <option value="$PROJECT_DIR$/__tests__/src/components/technologies/Technologies.test.js" />
+        <option value="$PROJECT_DIR$/__tests__/src/components/testing/Testing.test.js" />
+        <option value="$PROJECT_DIR$/__tests__/src/components/global/navigation/Navbar.test.js" />
+        <option value="$PROJECT_DIR$/pages/index.js" />
+        <option value="$PROJECT_DIR$/__tests__/pages/index.test.js" />
+        <option value="$PROJECT_DIR$/__tests__/pages/technologies.test.js" />
+        <option value="$PROJECT_DIR$/pages/technologies.js" />
+        <option value="$PROJECT_DIR$/__tests__/pages/testing.test.js" />
+        <option value="$PROJECT_DIR$/pages/testing.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+    <option name="width" value="1168" />
+    <option name="height" value="1050" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <showExcludedFiles Scope="true" ProjectPane="true" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="react-starter-v2-ssr" type="b2602c69:ProjectViewProjectNode" />
+              <item name="react-starter-v2-ssr" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="react-starter-v2-ssr" type="b2602c69:ProjectViewProjectNode" />
+              <item name="react-starter-v2-ssr" type="462c0819:PsiDirectoryNode" />
+              <item name="__tests__" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="react-starter-v2-ssr" type="b2602c69:ProjectViewProjectNode" />
+              <item name="react-starter-v2-ssr" type="462c0819:PsiDirectoryNode" />
+              <item name="__tests__" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="react-starter-v2-ssr" type="b2602c69:ProjectViewProjectNode" />
+              <item name="react-starter-v2-ssr" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs.jest.jest_package" value="$PROJECT_DIR$/node_modules/jest" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="$USER_HOME$/.npm-global/lib/node_modules/prettier" />
+    <property name="settings.editor.selected.configurable" value="JavaScript.Libraries" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/__tests__/src/components/landing" />
+      <recent name="$PROJECT_DIR$/src/styled-components/global" />
+      <recent name="$PROJECT_DIR$/src/styled-components/reuseable" />
+      <recent name="$PROJECT_DIR$/src/components/global/navigation" />
+      <recent name="$PROJECT_DIR$/src/styled-components/navigation" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Jest.&lt;Testing/&gt;">
+    <configuration name="&lt;Home/&gt;" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="SUITE" />
+      <test-file value="$PROJECT_DIR$/__tests__/pages/index.test.js" />
+      <test-names>
+        <test-name value="&lt;Home/&gt;" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="&lt;Home/&gt;.should" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/__tests__/pages/index.test.js" />
+      <test-names>
+        <test-name value="&lt;Home/&gt;" />
+        <test-name value="should" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="&lt;Navbar/&gt;.should have div.navigation-links component" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/__tests__/src/components/global/navigation/Navbar.test.js" />
+      <test-names>
+        <test-name value="&lt;Navbar/&gt;" />
+        <test-name value="should have div.navigation-links component" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="&lt;Technologies/&gt;" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="SUITE" />
+      <test-file value="$PROJECT_DIR$/__tests__/pages/technologies.test.js" />
+      <test-names>
+        <test-name value="&lt;Technologies/&gt;" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="&lt;Testing/&gt;" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="SUITE" />
+      <test-file value="$PROJECT_DIR$/__tests__/pages/testing.test.js" />
+      <test-names>
+        <test-name value="&lt;Testing/&gt;" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Jest.&lt;Testing/&gt;" />
+        <item itemvalue="Jest.&lt;Technologies/&gt;" />
+        <item itemvalue="Jest.&lt;Home/&gt;" />
+        <item itemvalue="Jest.&lt;Home/&gt;.should" />
+        <item itemvalue="Jest.&lt;Navbar/&gt;.should have div.navigation-links component" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="606d2323-5582-46c4-b70a-a2c9f779a312" name="Default Changelist" comment="" />
+      <created>1597293912507</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597293912507</updated>
+      <workItem from="1597293914757" duration="9538000" />
+      <workItem from="1597548535242" duration="11536000" />
+      <workItem from="1597900394285" duration="16627000" />
+      <workItem from="1598632219133" duration="10544000" />
+      <workItem from="1599021151019" duration="44807000" />
+      <workItem from="1600966729071" duration="11151000" />
+      <workItem from="1601511667199" duration="37371000" />
+      <workItem from="1602867294531" duration="27829000" />
+      <workItem from="1603917080643" duration="30321000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="_Testing__ - 2020.11.15 at 21h 33m 17s.xml">
+      <configuration name="&lt;Testing/&gt;" configurationId="JavaScriptTestRunnerJest" />
+    </history-entry>
+    <history-entry file="_Testing__ - 2020.11.15 at 21h 33m 29s.xml">
+      <configuration name="&lt;Testing/&gt;" configurationId="JavaScriptTestRunnerJest" />
+    </history-entry>
+    <history-entry file="_Testing__ - 2020.11.15 at 21h 33m 41s.xml">
+      <configuration name="&lt;Testing/&gt;" configurationId="JavaScriptTestRunnerJest" />
+    </history-entry>
+    <history-entry file="_Navbar__ - 2020.11.15 at 21h 35m 51s.xml">
+      <configuration name="&lt;Navbar/&gt;" configurationId="JavaScriptTestRunnerJest" />
+    </history-entry>
+    <history-entry file="_Navbar___should_have_div_navigation-links_component - 2020.11.15 at 21h 36m 30s.xml">
+      <configuration name="&lt;Navbar/&gt;.should have div.navigation-links component" configurationId="JavaScriptTestRunnerJest" />
+    </history-entry>
+    <history-entry file="_Home___should - 2020.11.15 at 21h 44m 06s.xml">
+      <configuration name="&lt;Home/&gt;.should" configurationId="JavaScriptTestRunnerJest" />
+    </history-entry>
+    <history-entry file="_Home___should - 2020.11.15 at 21h 44m 39s.xml">
+      <configuration name="&lt;Home/&gt;.should" configurationId="JavaScriptTestRunnerJest" />
+    </history-entry>
+    <history-entry file="_Home__ - 2020.11.15 at 21h 51m 56s.xml">
+      <configuration name="&lt;Home/&gt;" configurationId="JavaScriptTestRunnerJest" />
+    </history-entry>
+    <history-entry file="_Technologies__ - 2020.11.15 at 21h 54m 10s.xml">
+      <configuration name="&lt;Technologies/&gt;" configurationId="JavaScriptTestRunnerJest" />
+    </history-entry>
+    <history-entry file="_Technologies__ - 2020.11.15 at 21h 54m 29s.xml">
+      <configuration name="&lt;Technologies/&gt;" configurationId="JavaScriptTestRunnerJest" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="199724000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1680" height="1050" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info id="npm" order="1" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="2" visible="true" weight="0.15773809" />
+      <window_info id="Structure" order="3" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="TypeScript" order="0" />
+      <window_info anchor="bottom" id="Docker" order="1" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="2" />
+      <window_info anchor="bottom" id="Event Log" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="4" />
+      <window_info anchor="bottom" id="Message" order="5" />
+      <window_info anchor="bottom" id="Quokka" order="6" />
+      <window_info anchor="bottom" id="Find" order="7" weight="0.328807" />
+      <window_info anchor="bottom" id="Run" order="8" visible="true" weight="0.45654345" />
+      <window_info anchor="bottom" id="Debug" order="9" weight="0.3996004" />
+      <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="12" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/contexts/clientIsLoadedContext.js" />
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/next.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="9" column="2" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/contexts/clientLoadedContext.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/styled-components/reuseable/StyledButtons.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="28" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="28" />
+          <folding>
+            <element signature="e#15#54#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/_document.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/_app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="6" column="37" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/styled-components/global/navigation/StyledThemeSwitcher.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="39" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/styled-components/global/animations/StyledAppLoadingAnimation.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="498">
+          <caret line="52" column="27" selection-start-line="51" selection-start-column="4" selection-end-line="52" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#54#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.next/static/chunks/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="514" column="679" selection-start-line="514" selection-start-column="679" selection-end-line="514" selection-end-column="679" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/styled-components/landing/StyledLanding.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="11" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/styled-components/variables.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="3" column="23" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/styled-components/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/styled-components/global/GlobalStyles.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="888">
+          <caret line="37" column="32" selection-start-line="37" selection-start-column="32" selection-end-line="37" selection-end-column="32" />
+          <folding>
+            <element signature="e#15#69#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/next/router.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/next/dist/client/router.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="12" column="85" selection-start-line="12" selection-start-column="80" selection-end-line="12" selection-end-column="91" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/next/dist/next-server/lib/router-context.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/styled-components/global/navigation/StyledNavbar.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="54" lean-forward="true" selection-start-column="54" selection-end-line="5" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/animations/AppLoadingAnimation.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="13" column="30" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/next/router.d.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/__tests__/src/components/animations/AppLoadingAnimation.test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="648">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+          <folding>
+            <element signature="e#15#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../react-starter-v2/src/contexts/ThemeContext.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="7" column="30" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/contexts/themeContext.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="9" column="3" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/setupTests.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/global/navigation/ThemeSwitcher.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="12" column="53" selection-start-line="12" selection-start-column="53" selection-end-line="12" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/__tests__/src/components/landing/Landing.test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="6" selection-end-column="51" />
+          <folding>
+            <element signature="e#15#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/__tests__/src/components/global/navigation/ThemeSwitcher.test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="13" selection-start-line="13" selection-end-line="14" selection-end-column="40" />
+          <folding>
+            <element signature="e#15#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/__mocks__/technologies/technologies.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="768">
+          <caret line="32" column="1" selection-start-line="32" selection-start-column="1" selection-end-line="32" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/__mocks__/theme/theme.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="6" column="31" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/__tests__/src/App.test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="56" column="74" selection-start-line="56" selection-start-column="74" selection-end-line="56" selection-end-column="74" />
+          <folding>
+            <element signature="e#15#41#0" expanded="true" />
+            <element signature="e#184#212#0" expanded="true" />
+            <element signature="e#448#515#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/api/hello.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1332">
+          <caret line="1" column="42" selection-start-line="1" selection-start-column="42" selection-end-line="1" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/scripts/constants.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="3" column="21" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/styled-components/technologies/StyledTechnologies.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="8" column="22" lean-forward="true" selection-end-line="49" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/styled-components/testing/StyledTesting.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="39" selection-start-column="39" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/global/navigation/Navbar.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="191">
+          <caret line="30" column="38" selection-start-line="30" selection-start-column="38" selection-end-line="30" selection-end-column="38" />
+          <folding>
+            <element signature="e#15#55#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="9" column="9" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/technologies/Technologies.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="8" selection-end-column="51" />
+          <folding>
+            <element signature="e#15#55#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/__tests__/src/components/technologies/Technologies.test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="11" selection-start-line="11" selection-end-line="12" selection-end-column="49" />
+          <folding>
+            <element signature="e#15#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/testing/Testing.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="4" column="70" lean-forward="true" selection-start-line="4" selection-start-column="70" selection-end-line="4" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/__tests__/src/components/testing/Testing.test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="395">
+          <caret line="19" column="44" selection-start-line="19" selection-start-column="44" selection-end-line="19" selection-end-column="44" />
+          <folding>
+            <element signature="e#15#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/__tests__/src/components/global/navigation/Navbar.test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="333">
+          <caret line="36" column="65" selection-start-line="36" selection-start-column="65" selection-end-line="36" selection-end-column="65" />
+          <folding>
+            <element signature="e#15#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jest.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jsconfig.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="8" column="34" lean-forward="true" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/landing/Landing.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="39" column="42" selection-start-line="39" selection-start-column="42" selection-end-line="39" selection-end-column="42" />
+          <folding>
+            <element signature="e#15#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-15">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="6" selection-end-column="51" />
+          <folding>
+            <element signature="e#15#48#0" expanded="true" />
+            <element signature="e#93#119#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/__tests__/pages/index.test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="267">
+          <caret line="16" column="5" selection-end-line="26" />
+          <folding>
+            <element signature="e#15#41#0" expanded="true" />
+            <element signature="e#136#164#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/technologies.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="1" column="19" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/__tests__/pages/technologies.test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="251">
+          <caret line="19" column="9" selection-end-line="26" />
+          <folding>
+            <element signature="e#15#41#0" expanded="true" />
+            <element signature="e#137#165#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/__tests__/pages/testing.test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="335">
+          <caret line="23" column="45" selection-start-line="23" selection-start-column="45" selection-end-line="23" selection-end-column="45" />
+          <folding>
+            <element signature="e#15#41#0" expanded="true" />
+            <element signature="e#152#180#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/testing.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="1" column="19" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
